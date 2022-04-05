@@ -5,7 +5,7 @@ description: The hallway smelt of boiled cabbage and old rag mats.
 
 <p align="center"><img src="https://user-images.githubusercontent.com/99063569/161821169-9e15eedc-058b-4bbd-8872-aa6594c360de.png" width="300px"></p>
 
-<h1 align="center">Erick Montes 🦇🤖  </h1>
+<h2 align="center">Erick Montes 🦇🤖</h2>
 <hr>
 
 Hola ✌️  soy el explorer<del>/encarnación de la venganza</del> Erick Montes y este es mi blog personal donde compartiré mis aventuras de Launch X.<br>
