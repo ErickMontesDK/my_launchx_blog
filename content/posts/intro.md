@@ -7,9 +7,9 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 <tr>
 <td width="300px">
 <pre>
--Hello there!
+<i>-Hello there!
 
--General Explorer!
+-General Explorer!</i>
 <img src="https://us.v-cdn.net/6025735/uploads/editor/y6/1uwr9ko8tfc3.gif" width="100" height="100">
 </pre>
 </td>
