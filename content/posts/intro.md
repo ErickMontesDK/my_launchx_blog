@@ -3,12 +3,14 @@ title: "La Cultura de un Desarrollador"
 date: 2022-04-05T14:02
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
+<div bgcolor="blue">
 <pre>
 -Hello there!
 
 -General Explorer!
 <img src="https://us.v-cdn.net/6025735/uploads/editor/y6/1uwr9ko8tfc3.gif" width="100" height="100">
 </pre>
+  </div>
 
 
 A mi forma de ver, la cultura de un desarrollador se basa en estos aspectos:
